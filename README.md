@@ -1,4 +1,4 @@
-<h1 align="center" text-color="blue">Hi 👋, I'm cyber-fanatic</h1>
+<h1 align="center" >Hi 👋, I'm Inam ul haq .</h1>
 
 **I'm Inam ul Haq, a passionate cybersecurity enthusiast with a focus on defending digital ecosystems against evolving threats. I have experience with Python, Linux, and essential tools like Nessus, Shodan, Nmap, Wireshark, and Metasploit. I aim to code my own tools using Python, leveraging modules and libraries such as socket, scapy, and paramiko. Additionally, I have knowledge of Bash scripting, HTML, CSS, and Django, which support my cybersecurity projects. With over a year of web development experience, I am committed to writing clean, efficient code that enhances user experiences and strengthens security.**
 
