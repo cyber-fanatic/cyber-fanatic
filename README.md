@@ -1,6 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Inam ul haq .</h1>
 
-**A Computer Science student & cybersecurity enthusiast with a focus on defending digital ecosystems against evolving threats.My enthusiasm for cybersecurity drives me to continually explore new challenges & deepen my knowledge in the field. I am committed to developing my skills & building a career in this exciting area of security.**
+**A Computer Science student and cybersecurity enthusiast with a focus on defending digital ecosystems against evolving threats.My enthusiasm for cybersecurity drives me to continually explore new challenges & deepen my knowledge in the field. I am committed to developing my skills & building a career in this exciting area of security.**
 
 
 <p align="left"> 
